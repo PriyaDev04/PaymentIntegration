@@ -1,0 +1,43 @@
+npm init -y
+npm i
+npm i express dotenv nodemon
+
+ "type": "module",
+
+  npm i razorpay
+
+  https://razorpay.com/docs/#home-payments
+  1.payments from left
+  2. payment gateway (scroll down)
+  2. left server integration
+  4.select node js
+  5.inside that click integration steps
+  6.scroll the page and find example with var instance box
+
+------
+
+npm i crypto
+
+
+
+  npm create vite@latest .
+  npm i
+  npm run dev
+
+  remove all from app.jsx ===============rfce
+
+  deleted index.css, app.css as well
+  then remove the import index.css in main.jsx
+
+npm i axios  
+
+
+1.Razorpay Payments
+ <script src="https://checkout.razorpay.com/v1/checkout.js">
+ then paste the node js options code
+
+
+ razorpay test card details
+
+  npm i react-router-dom
+

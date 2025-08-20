@@ -1,0 +1,3 @@
+PORT = 8000
+SECRETKEY = h2rUcoTJfmxHTc3C8EOriBsb
+KEYID = rzp_test_Kxn68xqOvFoFCQ
